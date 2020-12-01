@@ -2,6 +2,12 @@
 
 ## Technical Task for IPushPull.com
 
+## Online Demo on firebase
+
+[https://ap-ipushpull-vue-task.web.app/](https://ap-ipushpull-vue-task.web.app/)
+
+## Screenshots
+
 ![Screenshot of Homepage with Domains](https://github.com/alexpilugin/ap-ipushpull-test-task/blob/master/screenshots/homepage-domains.png "Homepage")    
 
 ![Screenshot of Mainpage with World CLock data](https://github.com/alexpilugin/ap-ipushpull-test-task/blob/master/screenshots/mainpage-clock.png "World CLock")   
